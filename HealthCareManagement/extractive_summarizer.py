@@ -3,7 +3,6 @@ from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
 import numpy as np
 import networkx as nx
-import pandas as pd
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
